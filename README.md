@@ -16,7 +16,7 @@ retiring employees.
 ## Summary
 
 The company is anticipating "Silver Tsunami" as many current employess will leave.
-Anticipating Top 3 Silver Tsunami position would be **Senior Engineer**, **Senior Staff**, and **Engineer**. 
+Top 3 Silver Tsunami impacted position would be **Senior Engineer**, **Senior Staff**, and **Engineer**. 
 A mentor will have too many mentees, especially on **Senior** title postion where the mentor need to trian about 89 mentees per mentor. 
 
 
